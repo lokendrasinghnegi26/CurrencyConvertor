@@ -45,7 +45,6 @@
         android:onClick="btnclick"
         android:shadowColor="@color/purple_200"
         android:text="@string/convert"
-        app:backgroundTint="#BFA1A1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.214"
